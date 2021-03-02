@@ -2,4 +2,4 @@
 
 **Usage**
 
-        * npm install faruk-eslint-code-formater *
+         npm install faruk-eslint-code-formater 
