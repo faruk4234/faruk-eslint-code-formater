@@ -19,5 +19,9 @@
         "eslint-plugin-react": "^7.22.0",
         "eslint-plugin-react-hooks": "^4.2.0",
         "prettier": "^2.2.1"
+    },
+    "dependencies": {
+        "@reactivex/rxjs": "^5.0.0-beta.1",
+        "server-error": "^1.0.1"
     }
 }
