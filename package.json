@@ -1,6 +1,6 @@
 {
     "name": "faruk-eslint-code-formater",
-    "version": "https://github.com/faruk4234/faruk-eslint-code-formater",
+    "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
